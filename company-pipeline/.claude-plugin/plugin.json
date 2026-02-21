@@ -1,0 +1,19 @@
+{
+  "name": "company-pipeline",
+  "description": "公司运营中心：运营面板(dashboard) + 规划流水线(planning) + 复盘(review) — 通过 tasks.jsonl + git 管理公司全生命周期",
+  "version": "2.0.0",
+  "author": {
+    "name": "Lafe",
+    "url": "https://github.com/La-fe"
+  },
+  "repository": "https://github.com/La-fe/ai-company",
+  "keywords": [
+    "company-pipeline",
+    "dashboard",
+    "planning",
+    "review",
+    "orchestrator",
+    "company-os"
+  ],
+  "license": "MIT"
+}

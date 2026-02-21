@@ -1,0 +1,20 @@
+{
+  "name": "ai-cmo",
+  "description": "AI CMO：增长策略引擎(strategy) + 单渠道深度策略(channel-deep-dive) — 流量增长的战略引擎",
+  "version": "2.0.0",
+  "author": {
+    "name": "Lafe",
+    "url": "https://github.com/La-fe"
+  },
+  "repository": "https://github.com/La-fe/ai-company",
+  "keywords": [
+    "cmo",
+    "growth-strategy",
+    "seo",
+    "sem",
+    "social",
+    "kol",
+    "company-os"
+  ],
+  "license": "MIT"
+}

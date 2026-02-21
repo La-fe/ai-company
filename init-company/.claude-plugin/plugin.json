@@ -1,0 +1,18 @@
+{
+  "name": "init-company",
+  "description": "公司内核初始化：引导式对话生成 company.md、goals.md、arsenal.md",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lafe",
+    "url": "https://github.com/La-fe"
+  },
+  "repository": "https://github.com/La-fe/ai-company",
+  "keywords": [
+    "company-context",
+    "initialization",
+    "company-kernel",
+    "ai-pm",
+    "business-strategy"
+  ],
+  "license": "MIT"
+}

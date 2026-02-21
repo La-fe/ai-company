@@ -1,0 +1,19 @@
+{
+  "name": "ai-cpo",
+  "description": "AI CPO：PRD 生成(prd) + 版本规划(version) + 概念→Feature(feature-design) — 竞品分析基于 competitor-teardown 封装，产品落地的专业大脑",
+  "version": "2.0.0",
+  "author": {
+    "name": "Lafe",
+    "url": "https://github.com/La-fe"
+  },
+  "repository": "https://github.com/La-fe/ai-company",
+  "keywords": [
+    "cpo",
+    "prd",
+    "version-planning",
+    "feature-design",
+    "competitor-teardown",
+    "company-os"
+  ],
+  "license": "MIT"
+}

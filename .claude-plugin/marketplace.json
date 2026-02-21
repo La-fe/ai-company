@@ -1,0 +1,68 @@
+{
+  "name": "ai-company",
+  "owner": {
+    "name": "La-fe",
+    "url": "https://github.com/La-fe"
+  },
+  "metadata": {
+    "description": "AI Company OS: CEO/CPO/CMO Agent system for goal decomposition, product planning, and multi-channel growth",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "init-company",
+      "source": "./init-company",
+      "description": "公司内核初始化：引导式对话生成 company.md、goals.md、arsenal.md",
+      "version": "1.0.0",
+      "category": "initialization"
+    },
+    {
+      "name": "ai-ceo",
+      "source": "./ai-ceo",
+      "description": "AI CEO：诊断与目标拆解(diagnose) + Roadmap 综合(roadmap) + 复盘评估(review)",
+      "version": "2.0.0",
+      "category": "management"
+    },
+    {
+      "name": "ai-cpo",
+      "source": "./ai-cpo",
+      "description": "AI CPO：PRD 生成(prd) + 版本规划(version) + 概念→Feature(feature-design) — 竞品分析基于 competitor-teardown 封装",
+      "version": "2.0.0",
+      "category": "product"
+    },
+    {
+      "name": "ai-cmo",
+      "source": "./ai-cmo",
+      "description": "AI CMO：增长策略引擎(strategy) + 单渠道深度策略(channel-deep-dive)",
+      "version": "2.0.0",
+      "category": "growth"
+    },
+    {
+      "name": "competitor-teardown",
+      "source": "./competitor-teardown",
+      "description": "竞品深度拆解：逐竞品六层分析（问题空间→数据模型→用户旅程→定价映射→留存机制→Feature目录+设计决策），输出结构化竞品档案",
+      "version": "1.0.0",
+      "category": "product"
+    },
+    {
+      "name": "company-pipeline",
+      "source": "./company-pipeline",
+      "description": "公司运营中心：运营面板(dashboard) + 规划流水线(planning) + 复盘(review)",
+      "version": "2.0.0",
+      "category": "workflow"
+    }
+  ],
+  "shared": {
+    "source": "./shared",
+    "description": "共享层：RLHF 框架、tasks schema、脚本工具、评估模板、经验库",
+    "contents": [
+      "references/rlhf-loop.md",
+      "references/tasks-schema.md",
+      "scripts/git-safe-commit.sh",
+      "scripts/tasks-crud.py",
+      "scripts/dashboard.py",
+      "templates/rlhf-eval-report.md",
+      "knowledge-base/"
+    ]
+  }
+}

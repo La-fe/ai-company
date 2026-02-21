@@ -1,0 +1,12 @@
+{
+  "name": "ai-ceo",
+  "description": "AI CEO：诊断与目标拆解(diagnose) + Roadmap 综合(roadmap) + 复盘评估(review) — 公司运转的战略大脑",
+  "version": "2.0.0",
+  "author": {
+    "name": "Lafe",
+    "url": "https://github.com/La-fe"
+  },
+  "repository": "https://github.com/La-fe/ai-company",
+  "keywords": ["ceo", "goal-decomposition", "roadmap", "review", "company-os"],
+  "license": "MIT"
+}
