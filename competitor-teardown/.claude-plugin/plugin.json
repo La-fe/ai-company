@@ -1,7 +1,7 @@
 {
   "name": "competitor-teardown",
-  "description": "竞品深度拆解：逐竞品六层分析（问题空间→数据模型→用户旅程→定价映射→留存机制→Feature目录+设计决策），输出结构化竞品档案",
-  "version": "1.0.0",
+  "description": "竞品深度拆解：逐竞品五层分析 + 跨竞品模式提炼（问题空间→数据模型→用户旅程→AI合约→Feature+商业）",
+  "version": "2.0.0",
   "author": {
     "name": "Lafe",
     "url": "https://github.com/La-fe"

@@ -1,0 +1,18 @@
+{
+  "name": "tech-teardown",
+  "description": "技术架构深度拆解：6层分析（问题空间→架构研究→方案调研→系统组件→技术流程→AI管线），输出结构化架构档案",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lafe",
+    "url": "https://github.com/La-fe"
+  },
+  "repository": "https://github.com/La-fe/ai-company",
+  "keywords": [
+    "tech-teardown",
+    "architecture-analysis",
+    "system-design",
+    "technology-research",
+    "company-os"
+  ],
+  "license": "MIT"
+}

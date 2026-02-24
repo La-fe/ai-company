@@ -45,6 +45,13 @@
       "category": "product"
     },
     {
+      "name": "tech-teardown",
+      "source": "./tech-teardown",
+      "description": "技术架构深度拆解：6层分析（问题空间→架构研究→方案调研→系统组件→技术流程→AI管线），输出结构化架构档案",
+      "version": "1.0.0",
+      "category": "technical"
+    },
+    {
       "name": "company-pipeline",
       "source": "./company-pipeline",
       "description": "公司运营中心：运营面板(dashboard) + 规划流水线(planning) + 复盘(review)",
